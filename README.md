@@ -1,4 +1,10 @@
-# Ansible Lightbulb
+# NOTICE
+
+## Lightbulb has been deprecated and replaced by Ansible Workshops <https://ansible.github.io/workshops/>
+
+## Ansible Lightbulb
+
+[![Docs & Slides](https://img.shields.io/badge/docs-latest-brightgreen.svg)](http://ansible.github.io/lightbulb/) [![Ansible Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Ansible-silver.svg)](https://docs.ansible.com/ansible/latest/community/code_of_conduct.html) [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 The Ansible Lightbulb project is an effort to provide a content toolkit and educational reference for effectively communicating and teaching Ansible topics.
 
@@ -38,6 +44,8 @@ Instructor notes on the execution and solution to all workshops can be found in 
 ### Presentation Decks
 
 The content of `decks/` are collection of presentation decks using the [reveal.js framework](http://lab.hakim.se/reveal-js/) for delivering instructor-led or hands-on instruction.
+
+The presentations can be viewed at [ansible.github.io/lightbulb](http://ansible.github.io/lightbulb/)
 
 ### Guides
 
